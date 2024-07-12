@@ -1,0 +1,19 @@
+
+    #que como
+        # Pedir o en Casa
+            #Pedir
+                # Activar Ubicacion / Buscar Lugares con mejores reseñas
+
+--------------------------------------------------------------------------------------------.
+Google Places API: Esta API te permite buscar lugares cercanos según                        |
+diversas categorías, como restaurantes, y obtener información detallada sobre ellos,        |
+como su ubicación, horarios, reseñas, etc.                                                  |
+                                                                                            |
+https://github.com/googlemaps/google-maps-services-python/blob/master/googlemaps/geocoding.py|
+Geocoding: Esta API puede ayudarte a obtener las coordenadas geográficas                    |
+ (latitud y longitud) de una dirección específica, lo que será útil                         |
+ para proporcionar la ubicación de la persona o para permitirle ingresar una ubicación.     |
+                                                                                            |
+Tkinter o Flask: Para la interfaz de usuario, podrías optar por usar Tkinter si             |
+quieres una interfaz de escritorio, o Flask si prefieres una aplicación web.                |
+--------------------------------------------------------------------------------------------.
