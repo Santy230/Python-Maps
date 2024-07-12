@@ -2,7 +2,7 @@ from os import system
 import googlemaps
 from geopy import Nominatim
 
-API_KEY = "AIzaSyA_wPZU1rYRipH39NJHZDqFbHO5Bv5ui_s"
+API_KEY = "*****"
 gmaps = googlemaps.Client(key=API_KEY)
 
 def obtener_coordenadas(): #COORDENADAS APROXIMADAS DE LA DIRRECION INGRESADA
